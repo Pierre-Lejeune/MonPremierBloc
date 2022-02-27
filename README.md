@@ -20,13 +20,13 @@ Cette exemple à été rédiger pour les biens de l'article ["Créer une librair
 ```
 Terminal Windows ou Mac
 
-WordPress 4.9
+WordPress  ^v4.9
 
-Gutenberg 4.0
+Gutenberg ^v4.0
 
-PHP 5.4
+PHP ^5.4
 
-Node 8+
+Node ^8+
 
 ```
 
